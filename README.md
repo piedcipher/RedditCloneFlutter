@@ -1,8 +1,7 @@
-# reddit_clone_flutter
+# RedditCloneFlutter
 
-Clone of Home Page of Reddit App
+Clone of Reddit App in Flutter (Currently only Home Page, Work in Progress)
 
-## Getting Started
+## Screenshot
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="https://i.imgur.com/ZeU6xgM.png" width="300" />
